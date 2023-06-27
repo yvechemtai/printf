@@ -34,7 +34,6 @@ int get_flags(const char *format, int *i)
 	return (flags);
 }
 
-
 /**
  * write_pointer - Write a memory address
  * @buffer: Arrays of chars
