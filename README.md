@@ -6,8 +6,8 @@ This is a group project for the 0x11. C - printf course in C programming. The go
 - Yvonne Chemtai Chelule
 
 ## Project Details
-- Start Date:
-- End Date:
+- Start Date: Jun 23, 2023 6:00 AM
+- End Date: Jun 28, 2023 6:00 AM
 - Weight: 5
 
 ## Project Summary
